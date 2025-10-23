@@ -14,7 +14,7 @@ To learn how cloud networking works by creating a Virtual Private Cloud (VPC) wi
 
 ---
 
-## VPC and Subnet Details (as per task)
+## VPC and Subnet Details 
 
 - **VPC CIDR block:** 10.0.0.0/16  
 - **Public Subnet CIDR:** 10.0.1.0/24 (auto-assign public IP enabled)  
@@ -32,7 +32,7 @@ To learn how cloud networking works by creating a Virtual Private Cloud (VPC) wi
 
 ---
 
-### Short Description (exact wording from task)
+### Description 
 VPC name  
 CIDR range: 10.0.0.0/16  
 Number of subnets: 2 (Public: 10.0.1.0/24, Private: 10.0.2.0/24)  
